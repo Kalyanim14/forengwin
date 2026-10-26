@@ -4,5 +4,9 @@ __pycache__/
 data/raw/*.json
 data/raw/*.csv
 data/*.json
+!data/summary.json
+!data/daily.json
+!data/horizon.json
+!data/observations.json
 !data/.gitkeep
 !data/raw/.gitkeep

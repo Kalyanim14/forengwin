@@ -1,0 +1,12 @@
+{
+  "period": "2026-01",
+  "units": "MW",
+  "cutoff": "D-1 23:30 UTC",
+  "metrics": {
+    "count": 720,
+    "mae_mw": 1836.2402777777777,
+    "rmse_mw": 2293.93738017555,
+    "bias_mw": 1623.4375,
+    "p90_absolute_error_mw": 3688.500000000001
+  }
+}
