@@ -151,7 +151,7 @@ npm run build
 
 ## Use of AI tools
 
-AI assistance was used during this project: **Claude and chatgpt- for planning and decision making, Codex - For helping in coding, error handling and suggestions**. All code was reviewed and tested by the author.
+AI assistance was used during this project: **Claude and Chatgpt - for planning and decision making, Codex - For helping in coding, error handling and suggestions**. 
 
 ---
 
