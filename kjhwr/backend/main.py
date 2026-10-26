@@ -10,7 +10,7 @@ DATA_DIR = Path(__file__).resolve().parents[1] / "data"
 app = FastAPI(title="Wind forecast accuracy API", version="1.0.0")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173", "https://forengwin-g9hs494wz-kalyanim14s-projects.vercel.app/"],
     allow_credentials=True,
     allow_methods=["GET"],
     allow_headers=["*"],
